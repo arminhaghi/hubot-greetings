@@ -1,0 +1,19 @@
+{
+  "name": "hubot-hello",
+  "description": "A hubot script that greets you",
+  "version": "0.0.1",
+  "author": "Armin Haghi <armin_hgh@yahoo.com>",
+  "license": "Apache 2.0",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arminhaghi/hubot-greetings"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "main": "index.coffee",
+}
