@@ -1,4 +1,4 @@
-# hubot-greet
+# hubot-hello
 
 A hubot script to make it a little bit more polite.
 
@@ -6,12 +6,12 @@ A hubot script to make it a little bit more polite.
 
 In hubot project repo, run:
 
-`npm install hubot-greet --save`
+`npm install hubot-hello --save`
 
-Then add **hubot-greet** to your `external-scripts.json`:
+Then add **hubot-hello** to your `external-scripts.json`:
 
 ```json
-["hubot-greet"]
+["hubot-hello"]
 ```
 
 ## Sample Interaction

@@ -1,5 +1,5 @@
 {
-  "name": "hubot-greet",
+  "name": "hubot-hello",
   "version": "0.0.1",
   "description": "A hubot script that greets you",
   "main": "index.coffee",
@@ -13,7 +13,7 @@
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "hubot-greet"
+    "hubot-hello"
   ],
   "author": "Armin Haghi <armin_hgh@yahoo.com>",
   "license": "Apache-2.0",
